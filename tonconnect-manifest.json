@@ -1,6 +1,6 @@
 {
     "name": "My Telegram Mini App",
-    "url": "https://your-domain.com",
+    "url": "https://app.tonkeeper.com/",
     "iconUrl": "https://127.0.0.1:5000/logo.png",
     "termsOfUseUrl": "https://127.0.0.1:5000/terms",
     "privacyPolicyUrl": "https://127.0.0.1:5000/privacy"
